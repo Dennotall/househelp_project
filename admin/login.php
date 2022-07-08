@@ -87,7 +87,7 @@ div#login-right::before {
   			<div class="card col-md-8">
   				<div class="card-body">
   						<div class="logo">
-			  				<span class="glyphicon glyphicon-calendar"></span>
+			  				<span class="fa fa-hands-helping"></span>
 			  			</div>
   					<form id="login-form" >
   						<div class="form-group">
